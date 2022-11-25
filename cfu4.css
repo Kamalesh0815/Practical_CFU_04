@@ -1,0 +1,139 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.headerbg {
+  max-width: 1000px;
+  margin-left: 900px;
+  margin-right: auto;
+}
+
+.LOGO {
+  position: absolute;
+  top: 30px;
+  left: 940px;
+}
+
+header {
+  position: relative;
+}
+
+nav {
+  display: flex;
+}
+
+.adiv {
+  display: flex;
+  position: absolute;
+  top: 30px;
+  left: 1550px;
+  gap: 30px;
+  color: white;
+}
+
+.headerh1 {
+  position: absolute;
+  top: 100px;
+  left: 1260px;
+  color: white;
+}
+
+.arrow {
+  position: absolute;
+  top: 240px;
+  left: 1400px;
+}
+
+.section1 {
+  display: grid;
+  grid-template-columns: 500px 500px;
+  margin-left: 900px;
+  gap: 0px;
+  margin-right: auto;
+}
+
+.imgsection1 {
+  width: 500px;
+}
+
+.appletext {
+  position: absolute;
+  top: 1650px;
+  left: 1000px;
+}
+
+.photographytext {
+  position: absolute;
+  top: 1650px;
+  left: 1500px;
+}
+
+.members {
+  margin-left: 1000px;
+  display: flex;
+  gap: 20px;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.membersh4 {
+  margin-left: 1300px;
+}
+
+.lastsecimg {
+  width: 250px;
+  height: 350px;
+}
+
+.lastsec {
+  margin-left: 900px;
+}
+
+footer {
+  width: 1010px;
+  background-color: hsl(168, 78%, 74%);
+  height: 300px;
+  margin-left: 900px;
+  text-align: center;
+  padding-top: 100px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.footersunny {
+  padding-top: 100px;
+  margin-left: 350px;
+  width: 300px;
+  /* height: 00px; */
+}
+
+.lasta {
+  margin-left: 10px;
+}
+
+.lasticon {
+  margin-left: 10px;
+}
+
+.left1 {
+  margin-left: 70px;
+  padding: 70px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.memberimg {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+.sec3 {
+  margin-top: 60px;
+  margin-bottom: 60px;
+}
